@@ -1,4 +1,4 @@
-ID,rank,Python,Java,discipline,years of experience,influencial factor,sex,salary
+ID,position,Python,Java,discipline,years of experience,influencial factor,Gender,salary
 abx001,AssistantProfessor,1,1,Decision Support,7,49,Female,139096
 abx002,AssistantProfessor,1,1,Information Systems,17,6,Female,73692
 abx003,AssistantProfessor,1,1,Information Systems,4,20,Female,102613
